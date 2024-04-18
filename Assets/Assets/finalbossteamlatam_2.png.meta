@@ -1,0 +1,2824 @@
+fileFormatVersion: 2
+guid: 5db238a62b4cb334bbeefbc1f700050a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 361
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891ee575278a7ad4d9cd2fc65b6c0ca3
+      internalID: -43824026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 361
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23957e7d2dcc1e418a10c12ad0c3823
+      internalID: -234777525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 361
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750edf17194a3c244bca0d0f8c64a2f2
+      internalID: 251037702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 361
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248e91640efd8f1468ea01e5ccaff3c4
+      internalID: -98489432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 361
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2186a2fbf01211744ab46c3fb044e460
+      internalID: 581371978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 361
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d0602c33ac47548b4d6fa3954151af
+      internalID: 464409317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_6
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 361
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821ef807ae1de1547b6e9ff4644e4f61
+      internalID: 1784438703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_7
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 361
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27779e789f84a7e49a9bc71334a126f8
+      internalID: -1166990363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_8
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 361
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8b293bf72901748a50091c65845f67
+      internalID: -1312907133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_9
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 361
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6423171b26c81ad4d830ff4bfd2ac529
+      internalID: -2063582750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_10
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 361
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f6a7481e9c4ea4ba36abe296435f3a
+      internalID: -1552011161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_11
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 361
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507f753cd2ff32f4996e5a07d0325887
+      internalID: 43798444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_12
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 361
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2a619a0865a7b4aa1728efaeab70cd
+      internalID: 148639331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_13
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 240
+        width: 169
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c66adc659bb4104ca0d6d4aa4f62e16
+      internalID: 189031126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_14
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 240
+        width: 219
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3004796edb97a7a46a4325ab9dbe5bf6
+      internalID: -1988591427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 297
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af51dc3d2c0ceda419e18592f7a50396
+      internalID: -239727534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 297
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cff79972a86924a87db56f880f1ec8
+      internalID: -1007836586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 297
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34772fd4d579ad741b55621447e90c48
+      internalID: 1723673619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 297
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef1e467c2edeae47912a80c3b0e8690
+      internalID: 996779952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_19
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 297
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe529f38d60aa04bbd5c7321786b6be
+      internalID: -1740972990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_20
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 260
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c1e0970f3991748b8963fcc7f83b15
+      internalID: -173680699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_21
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 260
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70922922b8b52647afaaa283d683660
+      internalID: -2029919823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_22
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 260
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5b2899d95c8d74aa975675b5b7d0b8
+      internalID: -1987477124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_23
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 260
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712a23841648bf24bad21505bedc78f4
+      internalID: -233525826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_24
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 317
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f54335f48b83042bdbad5600a1a1d2
+      internalID: 870176667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_25
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 316
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37e68e053042794b93e615bb7dd9ccf
+      internalID: 652175018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_26
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 316
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ee64e90bb819245a3eb2943247aa6b
+      internalID: -1172676242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 295
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd12e99e029f814bb0133f738b136e8
+      internalID: -1084788624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_28
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 296
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1242939e65257cc43b08fdf757b7ddee
+      internalID: 1796288233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_29
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 297
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba279dfe1a1fde489585c89a6288f8a
+      internalID: 324741724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_30
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 295
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f613538066eac6348b1d15c231e8edb9
+      internalID: 1267648502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_31
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 296
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c10e4c86c2c8a8489fc29db216a8ee3
+      internalID: -932855304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 273
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ba26387beda0e45a80e6658efcf9a8
+      internalID: -2041550015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_33
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 273
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4728b782d83be40a5d68c1299d2a54
+      internalID: 1015901687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 271
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d275ccbc0366d4ca75e8ab1905efc3
+      internalID: 417169387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_35
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 276
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f444e85584882d408e7219198b1e0b4
+      internalID: -493641815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_36
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 270
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5595ab647d590c4d86bab1bce92e298
+      internalID: 117514262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 245
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a811f16d96e55ed4487eabb8c5eec921
+      internalID: 1356281011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_38
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 249
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50aead8f0047854599dbd2ce9f95c8f
+      internalID: -464421893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_39
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 250
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8edf090f6612e4696183dab2bc7acc
+      internalID: 587751763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_40
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 250
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71cdc4e2e88d8f4b9971b96b94ee99f
+      internalID: 746362127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 221
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab25acd1090e0484f852dfd23757bda2
+      internalID: -2049201790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_42
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 223
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f66ed04227fea43a77edf9afd38a8e
+      internalID: 842319583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 229
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b709a58fa18a74991ae0f19f2c8921
+      internalID: 801907751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_44
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 229
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29df90ecc5738da4a8fad262601994ec
+      internalID: 149225890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_45
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 233
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9350df10126b74f98d94035eb685bb
+      internalID: -369568505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 196
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c21f39d09150a47ba3fd4617f419f7
+      internalID: 1399522139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_47
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 189
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b4f13e5ae39dc45b659838b9e5ddf9
+      internalID: 2052060803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_48
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 204
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69c22cf8b2aea044988e64a4e4f2033
+      internalID: -1661208316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_49
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 199
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3078ea97784567c40b062ba8ee21b95e
+      internalID: 1854319166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_50
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 204
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd334ed734f70448bbc46cbd7000463
+      internalID: -2093474478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_51
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 169
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a456495211c0c64c9e75fb3c47f480d
+      internalID: -118430161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_52
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 170
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dcfa19af9862041a125a4dcce4239b
+      internalID: 280682910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_53
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 170
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb88126818322c04db1b40f1d63c8ccc
+      internalID: -84454158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 170
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90851b9a5843a714b89bd328bc0d3c8c
+      internalID: -375356748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_55
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 170
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16edd38aecb43bc41b8605e4abe9d4ce
+      internalID: -180246716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_56
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 170
+        width: 93
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd8ef184e3734046a69a52f09092ba2
+      internalID: 878449995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_57
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 170
+        width: 123
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8c0c829f0cc40489f1008e6a35a1b5
+      internalID: 2004704524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_58
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 170
+        width: 130
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae9efb367c064f4f946696fb7881b73
+      internalID: -2141218176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_59
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 161
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc79d6eaa326e594c905fada5d157374
+      internalID: 722016752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_60
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 165
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7972deed13b9a9479f7f01ca1b2e271
+      internalID: 1515833496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_61
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 174
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ef72c74881b04428048e2cfd2f6be0
+      internalID: 1511105466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_62
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 169
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c625a1ace6ad1604bb5b51c740d54bfd
+      internalID: 2102349209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_63
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 130
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3485f49cf03b9e1448b361f1994ac895
+      internalID: 562022725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_64
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 71
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fb3843f47810447be6ab1429449751
+      internalID: 369868863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_65
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 83
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b242696680ed4478f4aab4d6c57f22
+      internalID: 1227458319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_66
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 99
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e700d1cb8098249ad88b2b371174b8
+      internalID: -1883355365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_67
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 82
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3e7f36c2be4394fa7c2e589c3c44f5
+      internalID: 1826815688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_68
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 106
+        width: 115
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cda357fadb73634d9047362f01db35b
+      internalID: 1185246564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_69
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 103
+        width: 115
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddb52640298b914d8cd3a65b3a5672b
+      internalID: 206138781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_70
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 103
+        width: 115
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10d9f8a27343ef4bb9cb893dc6a03ed
+      internalID: 123145502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_71
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 123
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c31cea4c5d6ca42992b2d0ed522179
+      internalID: 501437867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_72
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 123
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f229bd3a2b3a74d94fe62c53390f18
+      internalID: 1709465185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_73
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 123
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37b11195f73a4748aea7d5af8f846c7
+      internalID: -1489757480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_74
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 123
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551de55ab19300046b924c41fdf87972
+      internalID: 272362171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_75
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 123
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f945a377c229149b26f6864d45763b
+      internalID: -1067921750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_76
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 123
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1256ca585cc4b404c9cf558fb7b794c8
+      internalID: 722793023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_77
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 123
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4849a53e4f8c2274f96b443f31e6a352
+      internalID: 80071872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_78
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 123
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a597a9c506438c24db5ea88034cda1dd
+      internalID: -2003326648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_79
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 123
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730fdc858d5840c4c84f60ce5fd24c8e
+      internalID: -1928379318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_80
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 123
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be49e25e9ef99f44c840c92a8734b559
+      internalID: -1918785758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_81
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 121
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a19e37278838143966068fc4cce9fd
+      internalID: 1951384943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_82
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 121
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50a95176b23ff4408ad371b69171ac3
+      internalID: -1533883844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_83
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bf8023e54868045ac7fc5443ba07c6
+      internalID: -1670969905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_84
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 121
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfda552cd75e1b348bcd66ce2db09167
+      internalID: 595954094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_85
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed343b9595e68ef419095ffa86cae759
+      internalID: 771731186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_86
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f96426daf0c8549b539d4434113c77
+      internalID: -896331028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_87
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bea5db523dc4445af1f848c4dd5fb1
+      internalID: -705733361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_88
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd8ae57b725cf34fa106b13adc81173
+      internalID: 1138595634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_89
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f226ee7935dc28445bc27c4951113254
+      internalID: 677891860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_90
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa8b5e462bc360498ff5d940ada5b42
+      internalID: -1954385013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_91
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4699f6f401b197468ef72236718791f
+      internalID: 761125162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_92
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 123
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e0337ad43dce4489707cd8ef94906c
+      internalID: -1981055964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_93
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c614514760bae4fb721bb37c0ce54c
+      internalID: -2103790900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_94
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09da98e100415f3418562b414840956e
+      internalID: -950309543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_95
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 121
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c30bcfeeca07c4caac69eca7e0ef91
+      internalID: 408253517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_96
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 123
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0860d121140380e4897e5decc5506de6
+      internalID: -1270446323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_97
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 123
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4652111fd132d9a468a7193b77549366
+      internalID: 1026408736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_98
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f746cd54dfcb2e147b0891a3f2b9f542
+      internalID: -1904702046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_99
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4d0db62b62c3a47a52705d0da6cdfc
+      internalID: 214827681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_100
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116b0b5a9cb8bb942932fd931a99b77f
+      internalID: 1137200319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_101
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac5141f53535fc49a47896c1dc4d055
+      internalID: 1082095362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_102
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5c659e501a82441861527553c087ba
+      internalID: -807360782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_103
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 123
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11455e116100cc143a3afce9f07cb79d
+      internalID: -530876941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_104
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 123
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775841df2402dfa42b16471ca90005b3
+      internalID: -825834687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_105
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9738dfbe03f98244bb28ceb2e9ec69c7
+      internalID: 1156034364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_106
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff1eede10234804ca5cb2020cbf50ab
+      internalID: 899225949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_107
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20f37ef4e5f5c645a23add8544f646a
+      internalID: -1295871620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_108
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fe2dce7b22e5349a4797665cf5e93b
+      internalID: -866180999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_109
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 83
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1000b0f757c5d514ea827494c8459310
+      internalID: 1033135154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_110
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 29
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7215d53cf486b78419b77b2fca0fe8d9
+      internalID: 7889053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_111
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 29
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09902c2b6c1b794c9ba0f4261d273cd
+      internalID: -2130475869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_112
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 31
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba87a1045f99024fa4354a02018c878
+      internalID: 1632755747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_113
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 31
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab4a2fe12a73f045a46bd5c7d3d3ee1
+      internalID: 1553596888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_114
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 31
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd1fbd1efb10284aadba27128317ba1
+      internalID: 523626604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_115
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 20
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4077b7e3623b3c468585c9baff155ea
+      internalID: 1087400267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_116
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 22
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cdffca41796fa46a1ccc89db3ded09
+      internalID: 266545442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_117
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 22
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc72c9d08b21534a917c627c0a9dea5
+      internalID: 740534985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_118
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 22
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cb1d65d9c6519479db0718b64ae318
+      internalID: -1252330935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_119
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 31
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a788212faf0c24da3c89c375bae9fb
+      internalID: -2083058383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_120
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 32
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f418fcd60dc1504087b3bc9b310cdf9
+      internalID: -1805512760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalbossteamlatam_2_121
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 34
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90480a95a41798a4fa9c575821a18735
+      internalID: -299166466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      finalbossteamlatam_2_0: -43824026
+      finalbossteamlatam_2_1: -234777525
+      finalbossteamlatam_2_10: -1552011161
+      finalbossteamlatam_2_100: 1137200319
+      finalbossteamlatam_2_101: 1082095362
+      finalbossteamlatam_2_102: -807360782
+      finalbossteamlatam_2_103: -530876941
+      finalbossteamlatam_2_104: -825834687
+      finalbossteamlatam_2_105: 1156034364
+      finalbossteamlatam_2_106: 899225949
+      finalbossteamlatam_2_107: -1295871620
+      finalbossteamlatam_2_108: -866180999
+      finalbossteamlatam_2_109: 1033135154
+      finalbossteamlatam_2_11: 43798444
+      finalbossteamlatam_2_110: 7889053
+      finalbossteamlatam_2_111: -2130475869
+      finalbossteamlatam_2_112: 1632755747
+      finalbossteamlatam_2_113: 1553596888
+      finalbossteamlatam_2_114: 523626604
+      finalbossteamlatam_2_115: 1087400267
+      finalbossteamlatam_2_116: 266545442
+      finalbossteamlatam_2_117: 740534985
+      finalbossteamlatam_2_118: -1252330935
+      finalbossteamlatam_2_119: -2083058383
+      finalbossteamlatam_2_12: 148639331
+      finalbossteamlatam_2_120: -1805512760
+      finalbossteamlatam_2_121: -299166466
+      finalbossteamlatam_2_13: 189031126
+      finalbossteamlatam_2_14: -1988591427
+      finalbossteamlatam_2_15: -239727534
+      finalbossteamlatam_2_16: -1007836586
+      finalbossteamlatam_2_17: 1723673619
+      finalbossteamlatam_2_18: 996779952
+      finalbossteamlatam_2_19: -1740972990
+      finalbossteamlatam_2_2: 251037702
+      finalbossteamlatam_2_20: -173680699
+      finalbossteamlatam_2_21: -2029919823
+      finalbossteamlatam_2_22: -1987477124
+      finalbossteamlatam_2_23: -233525826
+      finalbossteamlatam_2_24: 870176667
+      finalbossteamlatam_2_25: 652175018
+      finalbossteamlatam_2_26: -1172676242
+      finalbossteamlatam_2_27: -1084788624
+      finalbossteamlatam_2_28: 1796288233
+      finalbossteamlatam_2_29: 324741724
+      finalbossteamlatam_2_3: -98489432
+      finalbossteamlatam_2_30: 1267648502
+      finalbossteamlatam_2_31: -932855304
+      finalbossteamlatam_2_32: -2041550015
+      finalbossteamlatam_2_33: 1015901687
+      finalbossteamlatam_2_34: 417169387
+      finalbossteamlatam_2_35: -493641815
+      finalbossteamlatam_2_36: 117514262
+      finalbossteamlatam_2_37: 1356281011
+      finalbossteamlatam_2_38: -464421893
+      finalbossteamlatam_2_39: 587751763
+      finalbossteamlatam_2_4: 581371978
+      finalbossteamlatam_2_40: 746362127
+      finalbossteamlatam_2_41: -2049201790
+      finalbossteamlatam_2_42: 842319583
+      finalbossteamlatam_2_43: 801907751
+      finalbossteamlatam_2_44: 149225890
+      finalbossteamlatam_2_45: -369568505
+      finalbossteamlatam_2_46: 1399522139
+      finalbossteamlatam_2_47: 2052060803
+      finalbossteamlatam_2_48: -1661208316
+      finalbossteamlatam_2_49: 1854319166
+      finalbossteamlatam_2_5: 464409317
+      finalbossteamlatam_2_50: -2093474478
+      finalbossteamlatam_2_51: -118430161
+      finalbossteamlatam_2_52: 280682910
+      finalbossteamlatam_2_53: -84454158
+      finalbossteamlatam_2_54: -375356748
+      finalbossteamlatam_2_55: -180246716
+      finalbossteamlatam_2_56: 878449995
+      finalbossteamlatam_2_57: 2004704524
+      finalbossteamlatam_2_58: -2141218176
+      finalbossteamlatam_2_59: 722016752
+      finalbossteamlatam_2_6: 1784438703
+      finalbossteamlatam_2_60: 1515833496
+      finalbossteamlatam_2_61: 1511105466
+      finalbossteamlatam_2_62: 2102349209
+      finalbossteamlatam_2_63: 562022725
+      finalbossteamlatam_2_64: 369868863
+      finalbossteamlatam_2_65: 1227458319
+      finalbossteamlatam_2_66: -1883355365
+      finalbossteamlatam_2_67: 1826815688
+      finalbossteamlatam_2_68: 1185246564
+      finalbossteamlatam_2_69: 206138781
+      finalbossteamlatam_2_7: -1166990363
+      finalbossteamlatam_2_70: 123145502
+      finalbossteamlatam_2_71: 501437867
+      finalbossteamlatam_2_72: 1709465185
+      finalbossteamlatam_2_73: -1489757480
+      finalbossteamlatam_2_74: 272362171
+      finalbossteamlatam_2_75: -1067921750
+      finalbossteamlatam_2_76: 722793023
+      finalbossteamlatam_2_77: 80071872
+      finalbossteamlatam_2_78: -2003326648
+      finalbossteamlatam_2_79: -1928379318
+      finalbossteamlatam_2_8: -1312907133
+      finalbossteamlatam_2_80: -1918785758
+      finalbossteamlatam_2_81: 1951384943
+      finalbossteamlatam_2_82: -1533883844
+      finalbossteamlatam_2_83: -1670969905
+      finalbossteamlatam_2_84: 595954094
+      finalbossteamlatam_2_85: 771731186
+      finalbossteamlatam_2_86: -896331028
+      finalbossteamlatam_2_87: -705733361
+      finalbossteamlatam_2_88: 1138595634
+      finalbossteamlatam_2_89: 677891860
+      finalbossteamlatam_2_9: -2063582750
+      finalbossteamlatam_2_90: -1954385013
+      finalbossteamlatam_2_91: 761125162
+      finalbossteamlatam_2_92: -1981055964
+      finalbossteamlatam_2_93: -2103790900
+      finalbossteamlatam_2_94: -950309543
+      finalbossteamlatam_2_95: 408253517
+      finalbossteamlatam_2_96: -1270446323
+      finalbossteamlatam_2_97: 1026408736
+      finalbossteamlatam_2_98: -1904702046
+      finalbossteamlatam_2_99: 214827681
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
